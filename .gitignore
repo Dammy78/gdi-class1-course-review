@@ -1,0 +1,10 @@
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
+*.gem
+.venv/
+node_modules/
+package.json
+package-lock.json

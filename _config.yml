@@ -1,0 +1,31 @@
+# GitHub Pages — static read-only course review (not an NZTA site)
+# DO NOT enable Pages until DEPLOYMENT_GATE.md approval.
+
+title: "Class 1 Learner Licence Course — Public Review"
+description: "Independent pre-submission review resource — supplementary navigation only"
+lang: en-NZ
+
+url: "https://dammy78.github.io"
+baseurl: "/gdi-class1-course-review"
+
+markdown: kramdown
+theme: null
+plugins: []
+
+exclude:
+  - README.md
+  - DEPLOYMENT_GATE.md
+  - PUBLIC_REVIEW_MANIFEST.md
+  - PUBLIC_DOWNLOAD_MANIFEST.md
+  - SECURITY_AND_PRIVACY_REVIEW.md
+  - scripts/
+  - Gemfile
+  - Gemfile.lock
+  - .gitignore
+
+course:
+  version: "0.1.0-review"
+  last_updated: "2026-10-02"
+  owner: "Danny Singh"
+  stage: "PRE-SUBMISSION REVIEW"
+  approved: false
