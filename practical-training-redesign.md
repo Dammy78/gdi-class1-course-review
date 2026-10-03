@@ -1,7 +1,7 @@
 ---
 layout: default-redesign
 title: Practical Training
-permalink: /practical-training/
+permalink: /staging/redesign/practical-training/
 ---
 
 <div class="content-main" style="max-width: 1200px;">

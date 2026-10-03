@@ -1,7 +1,7 @@
 ---
 layout: default-redesign
 title: Learning Outcomes
-permalink: /learning-outcomes/
+permalink: /staging/redesign/learning-outcomes/
 ---
 
 <div class="content-main" style="max-width: 1200px;">

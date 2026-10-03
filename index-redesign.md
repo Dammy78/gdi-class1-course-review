@@ -2,7 +2,7 @@
 layout: default-redesign
 title: Home
 description: Independent public pre-submission review for a Class 1 learner licence course design.
-permalink: /
+permalink: /staging/redesign/
 ---
 
 <!-- Hero -->
@@ -13,7 +13,7 @@ permalink: /
     <p>This site presents <strong>read-only</strong>, <strong>review-safe</strong> material for a Class 1 learner licence course design owned by <strong>Danny Singh</strong>. It is <strong>separate from other GDI commercial training products</strong> and is <strong>not</strong> an NZTA website.</p>
     <div class="hero-actions">
       <a href="{{ '/course-overview/' | relative_url }}" class="btn btn-primary">Start with Course Overview →</a>
-      <a href="{{ '/course-structure/' | relative_url }}" class="btn btn-secondary">View course structure</a>
+      <a href="{{ '/staging/redesign/course-structure/' | relative_url }}" class="btn btn-secondary">View course structure</a>
     </div>
   </div>
   <div class="hero-sidebar">
@@ -225,7 +225,7 @@ permalink: /
     <div class="module-summary-cell">
       <div class="module-summary-label">Total contact (course design)</div>
       <div class="module-summary-big">20.5 h</div>
-      <a href="{{ '/course-structure/' | relative_url }}" style="font-weight: 600;">See the hour breakdown</a>
+      <a href="{{ '/staging/redesign/course-structure/' | relative_url }}" style="font-weight: 600;">See the hour breakdown</a>
     </div>
   </div>
 </div>
@@ -242,14 +242,14 @@ permalink: /
         </div>
         <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="var(--color-accent-700)" stroke-width="2.5"><path d="M5 12h14M13 5l7 7-7 7"></path></svg>
       </a>
-      <a href="{{ '/learning-outcomes/' | relative_url }}" class="review-link">
+      <a href="{{ '/staging/redesign/learning-outcomes/' | relative_url }}" class="review-link">
         <div class="review-link-text">
           <h3>Learning Outcomes</h3>
           <p>LO-01–LO-09</p>
         </div>
         <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="var(--color-accent-700)" stroke-width="2.5"><path d="M5 12h14M13 5l7 7-7 7"></path></svg>
       </a>
-      <a href="{{ '/course-structure/' | relative_url }}" class="review-link">
+      <a href="{{ '/staging/redesign/course-structure/' | relative_url }}" class="review-link">
         <div class="review-link-text">
           <h3>Course Structure</h3>
           <p>20.5-hour design & modules</p>
@@ -263,7 +263,7 @@ permalink: /
         </div>
         <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="var(--color-accent-700)" stroke-width="2.5"><path d="M5 12h14M13 5l7 7-7 7"></path></svg>
       </a>
-      <a href="{{ '/practical-training/' | relative_url }}" class="review-link">
+      <a href="{{ '/staging/redesign/practical-training/' | relative_url }}" class="review-link">
         <div class="review-link-text">
           <h3>Practical Training</h3>
           <p>MOD-07 overview</p>

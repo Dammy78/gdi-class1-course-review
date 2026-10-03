@@ -1,17 +1,17 @@
 ---
 layout: default-redesign
 title: Course Structure
-permalink: /course-structure/
+permalink: /staging/redesign/course-structure/
 ---
 
 <div class="content-with-sidebar">
   <div class="content-sidebar">
     <div class="sidebar-section-label">Course</div>
     <div class="sidebar-nav">
-      <a href="/course-overview/">Course Overview</a>
-      <a href="/learning-outcomes/">Learning Outcomes</a>
-      <a href="/course-structure/" class="active">Course Structure</a>
-      <a href="/course-status/">Course Status</a>
+      <a href="{{ '/course-overview/' | relative_url }}">Course Overview</a>
+      <a href="{{ '/staging/redesign/learning-outcomes/' | relative_url }}">Learning Outcomes</a>
+      <a href="{{ '/staging/redesign/course-structure/' | relative_url }}" class="active">Course Structure</a>
+      <a href="{{ '/course-status/' | relative_url }}">Course Status</a>
     </div>
     <div class="sidebar-section-label">On this page</div>
     <div style="display: flex; flex-direction: column; gap: 8px; font-size: 15px;">
